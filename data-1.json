@@ -1,0 +1,8 @@
+[
+  {
+    "deviceId": "machine-001",
+    "timestamp": 1582588963000,
+    "temperature": 24.5,
+    "pressure": 101.2
+  }
+]
